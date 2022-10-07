@@ -1,6 +1,6 @@
 # active_extrinsic
 
-Active Extrinsic Contact Sensing & Insertion using GTSAM + Python wrapping
+This repository contains the source code of the paper [Active Extrinsic Contact Sensing: Application to General Peg-in-Hole Insertion](https://ieeexplore.ieee.org/document/9812017).
 
 ## Directories
 
