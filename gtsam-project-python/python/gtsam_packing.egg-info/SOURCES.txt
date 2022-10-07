@@ -1,0 +1,9 @@
+setup.py
+gtsam_example/__init__.py
+gtsam_packing/__init__.py
+gtsam_packing.egg-info/PKG-INFO
+gtsam_packing.egg-info/SOURCES.txt
+gtsam_packing.egg-info/dependency_links.txt
+gtsam_packing.egg-info/not-zip-safe
+gtsam_packing.egg-info/requires.txt
+gtsam_packing.egg-info/top_level.txt
